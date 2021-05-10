@@ -9,7 +9,7 @@ This is the code for the optimization of number of clusters in an unsupervised w
 
 This work is presented in SiPS 2020.
 
-This paper proposes a method for optimizing theclusters employed as discrete random variables in probabilisticswitching models. The proposed optimization facilitates obtaininga low number of discrete components while guaranteeing a highperformance at predicting and detecting abnormalities in timeseries of data. Our method is composed of a two-step clusteringapproach that first considers a partitional clustering to obtainan initial semantic representation of data. Then it performs ahierarchical clustering to decrease the number of clusters whilepreserving coherent models employed for predicting future timeinstances at the testing phase. Odometry data from a real vehiclethat performs different tasks in a closed, controlled environmentis used to evaluate the proposed method.
+This paper proposes a method for optimizing theclusters employed as discrete random variables in probabilistic switching models. The proposed optimization facilitates obtaininga low number of discrete components while guaranteeing a high performance at predicting and detecting abnormalities in timeseries of data. Our method is composed of a two-step clustering approach that first considers a partitional clustering to obtainan initial semantic representation of data. Then it performs a hierarchical clustering to decrease the number of clusters while preserving coherent models employed for predicting future time instances at the testing phase. Odometry data from a real vehicle that performs different tasks in a closed, controlled environmentis used to evaluate the proposed method.
 
 ### Resources
 You can use these codes with MATLAB 2018.
