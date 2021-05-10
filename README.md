@@ -19,7 +19,7 @@ Note: Data used for this work is not published yet.
 Citation
 If you find our work useful in your research, please cite our work:
 
-@inproceedings{iqbal2020optimization,
+```@inproceedings{iqbal2020optimization,
   title={Optimization of Probabilistic Switching Models Based on a Two-Step Clustering Approach},
   author={Iqbal, Hafsa and Campo, Damian and Slavic, Giulia and Marcenaro, Lucio and Gomez, David Martin and Regazzoni, Carlo},
   booktitle={2020 IEEE Workshop on Signal Processing Systems (SiPS)},
@@ -27,3 +27,5 @@ If you find our work useful in your research, please cite our work:
   year={2020},
   organization={IEEE}
 }
+```
+
