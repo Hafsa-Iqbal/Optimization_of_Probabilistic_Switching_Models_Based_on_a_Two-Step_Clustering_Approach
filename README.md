@@ -16,8 +16,8 @@ You can use these codes with MATLAB 2018.
 
 Note: Data used for this work is not published yet.
 
-Citation
-If you find our work useful in your research, please cite our work:
+Citation:
+If you find our work useful in your research, please cite as follows;
 
 ```
 @inproceedings{iqbal2020optimization,
